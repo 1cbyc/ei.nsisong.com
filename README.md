@@ -1,4 +1,4 @@
-# TrulyAO
+# 1cbyc
 
 ## Tech Stack
 
@@ -7,4 +7,4 @@
 - Markdown (for the blog)
 - TailwindCSS
 
-> Yes, you can clone or fork and reuse this template.
+> Shoutout to Ayodeji (TrulyAO) for allowing me use his code for this project
