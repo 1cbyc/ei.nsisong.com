@@ -49,7 +49,7 @@
 	},
 	{
 		"name": "Invoicing API (C#)",
-		"description": "Create, manage client payments and invoices",
+		"description": "API to create, manage client payments and invoices",
 		"url": null,
 		"github_url": "https://github.com/1cbyc/invoicing-api-cs",
 		"image": "bazooka.png",
@@ -64,26 +64,34 @@
 		"status": "ALPHA"
 	},
 	{
-		"name": "Jenzo",
-		"description": "Generate meta images on the fly using HTML templates.",
+		"name": "Data Storage Encrypter",
+		"description": "Implement encryption and secure data storage in a web application.",
 		"url": null,
-		"github_url": "github.com/aosasona/jenzo",
+		"github_url": "https://github.com/1cbyc/encrypt-data-storage-php",
 		"image": "jenzo.png",
 		"status": null
 	},
 	{
-		"name": "Hitlist",
-		"description": "Execute multiple commands with a single command.",
-		"url": "https://hitlist.dev",
-		"github_url": "github.com/hitlist-cli/cli",
+		"name": "SPF Mail Sender",
+		"description": "Send emails on web pages via another user email.",
+		"url": null,
+		"github_url": "https://github.com/1cbyc/email-sender-form",
 		"image": "hitlist.png",
 		"status": "UNMAINTAINED"
 	},
 	{
 		"name": "PHP Router",
-		"description": "A composer package that brings Express-like routing to PHP with support for middleware, class-based callbacks, dynamic routes etc",
+		"description": "Python-based bot that automates the process of sending out native tokens (e.g., BNB, MATIC, ETH) from YOUR EVM-based wallet",
 		"url": null,
-		"github_url": "github.com/aosasona/php-router",
+		"github_url": "https://github.com/nsisongltd/EVM-AutoTransfer-Bot",
+		"image": "phprouter.png",
+		"status": "ARCHIVED"
+	}
+	{
+		"name": "Support Management SYstem",
+		"description": "basic customer complaints management system",
+		"url": null,
+		"github_url": "https://github.com/1cbyc/basic-support-management-system-php",
 		"image": "phprouter.png",
 		"status": "ARCHIVED"
 	}
