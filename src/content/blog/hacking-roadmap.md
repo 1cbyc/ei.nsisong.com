@@ -1,6 +1,6 @@
 ---
 title: Hacking can be easy, my hacking Roadmap
-date: 3 October 2022
+date: 03 October 2022
 description: hacking can be easy, agreed. It is just that most of the times, it is not. You should take your time to develop your technical skills, else you could get lost. I decided to put together a straight forward roadmap for anyone who finds hacking fascinating.
 keywords: security, product, attack, cybersecurity
 draft: true
