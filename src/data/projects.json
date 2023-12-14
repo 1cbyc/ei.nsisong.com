@@ -1,27 +1,19 @@
 [
 	{
-		"name": "Gots",
-		"description": "Go types to Typescript types, easy peasy!",
-		"url": null,
-		"github_url": "github.com/aosasona/gots",
+		"name": "P2PFi",
+		"description": "Self-custodial cryptocurrency marketplace! Buy and sell cryptocurrency in your local currency.",
+		"url": "https://www.p2pfi.co/",
+		"github_url": "github.com/p2pfi",
 		"image": "gots.png",
-		"status": null
+		"status": "ALPHA"
 	},
 	{
-		"name": "Plunk.gleam",
-		"description": "A library for sending emails and interacting with the Plunk API in Gleam.",
-		"url": "https://hexdocs.pm/plunk/",
-		"github_url": "github.com/aosasona/plunk.gleam",
-		"image": "plunk.png",
-		"status": null
-	},
-	{
-		"name": "Sidekyk",
-		"description": "Your personal AI sidekicks! (Shipped privately)",
-		"url": "https://x.com/trulyao/status/1704530681475305891?s=46&t=oZkX14dN7BKTYc0mRw0ryg",
-		"github_url": null,
-		"image": "sidekyk.png",
-		"status": "PRIVATE"
+		"name": "NidFul v1 (API)",
+		"description": "Self-custodial cryptocurrency marketplace! Buy and sell cryptocurrency in your local currency.",
+		"url": "https://www.nidful.com/",
+		"github_url": "https://github.com/NidFul/laravel-api",
+		"image": "gots.png",
+		"status": "ALPHA"
 	},
 	{
 		"name": "e2e with PHP",
@@ -56,12 +48,12 @@
 		"status": null
 	},
 	{
-		"name": "Phlo",
-		"description": "A minimal and fast PHP framework for the modern web",
+		"name": "Loan Tracker App",
+		"description": "efficiently manage and keep track of loans to be collected from customers",
 		"url": null,
-		"github_url": "github.com/aosasona/phlo",
-		"image": "phlo.png",
-		"status": "ALPHA"
+		"github_url": "https://github.com/nsisongltd/loan-app",
+		"image": "phprouter.png",
+		"status": "PRIVATE"
 	},
 	{
 		"name": "Data Storage Encrypter",
@@ -80,15 +72,15 @@
 		"status": "UNMAINTAINED"
 	},
 	{
-		"name": "PHP Router",
+		"name": "EVM Auto Transfer Bot",
 		"description": "Python-based bot that automates the process of sending out native tokens (e.g., BNB, MATIC, ETH) from YOUR EVM-based wallet",
 		"url": null,
 		"github_url": "https://github.com/nsisongltd/EVM-AutoTransfer-Bot",
 		"image": "phprouter.png",
-		"status": "ARCHIVED"
-	}
+		"status": null
+	},
 	{
-		"name": "Support Management SYstem",
+		"name": "Support Management System",
 		"description": "basic customer complaints management system",
 		"url": null,
 		"github_url": "https://github.com/1cbyc/basic-support-management-system-php",
