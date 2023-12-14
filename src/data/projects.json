@@ -24,18 +24,34 @@
 		"status": "PRIVATE"
 	},
 	{
-		"name": "Reda",
-		"description": "Import, organise, share and read your books, articles, and other digital documents anytime, anywhere.",
-		"url": "https://usereda.app",
+		"name": "e2e with PHP",
+		"description": "Multilevel end-to-end encryption in PHP! (Shipped privately)",
+		"url": "https://github.com/1cbyc/e2e-php",
+		"github_url": null,
+		"image": "sidekyk.png",
+		"status": "PRIVATE"
+	},
+	{
+		"name": "Quotes Generator",
+		"description": "Never run out of motivation anywhere, anytime.",
+		"url": "https://github.com/1cbyc/generate-random-quotes",
 		"github_url": null,
 		"image": "reda.png",
 		"status": null
 	},
 	{
-		"name": "Bazooka",
-		"description": "Find and terminate processes on your machine from your browser.",
+		"name": "Read & Display CSV",
+		"description": "View CSV files directly from your browser.",
+		"url": "https://github.com/1cbyc/read-and-display-csv",
+		"github_url": null,
+		"image": "reda.png",
+		"status": null
+	},
+	{
+		"name": "Invoicing API (C#)",
+		"description": "Create, manage client payments and invoices",
 		"url": null,
-		"github_url": "github.com/aosasona/bazooka",
+		"github_url": "https://github.com/1cbyc/invoicing-api-cs",
 		"image": "bazooka.png",
 		"status": null
 	},
