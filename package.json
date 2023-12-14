@@ -1,10 +1,10 @@
 {
-  "name": "trulyao",
+  "name": "nsisong",
   "type": "module",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "TAILWIND_MODE=watch astro dev",
+    "dev": "($env:TAILWIND_MODE='watch') ; astro dev",
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
