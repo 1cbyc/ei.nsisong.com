@@ -24,11 +24,11 @@ let {
 } = post;
 const { Content } = await post.render();
 
-if (!title) title = "Ayodeji";
-if (!desc) desc = "A portal into my thoughts, thoughts, experiences, ideas, visions, and more. What's the point of this? Well, I'm not sure, but here you go anyhow.";
-if (!keywords) keywords = "ayodeji, osasona, trulyao, ayo, developer, engineer, php, python, java, c++, node, typescript";
+if (!title) title = "Isaac";
+if (!desc) desc = "You can get on a journey into the realms of my thoughts, experiences, ideas, interests, and beyond. The purpose of this blog, though uncertain, finds expression in this endeavor.";
+if (!keywords) keywords = "isaac, 1cbyc, nsisong, developer, engineer, php, python, java, c++, node, typescript";
 
-const metaRawUrl = new URL("https://og.wyte.space/api/v1/images/trulyao/preview");
+const metaRawUrl = new URL("https://pbs.twimg.com/profile_images/1643743079910854657/RGaC_gf1_400x400.jpg");
 metaRawUrl.searchParams.append("variant", "blog");
 metaRawUrl.searchParams.append("style", "blog");
 metaRawUrl.searchParams.append("size", "medium");
@@ -54,23 +54,23 @@ const metaUrl = metaRawUrl.href;
 		<meta name="google" content="notranslate" />
 
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="https://www.trulyao.dev" />
+		<meta property="og:url" content="https://ei.nsisong.com" />
 		<meta property="og:title" content={title} />
 		<meta property="og:description" content={desc} />
 		<meta property="og:image" content={metaUrl} />
 
 		<meta property="twitter:card" content="summary_large_image" />
-		<meta property="twitter:url" content="https://www.trulyao.dev" />
+		<meta property="twitter:url" content="https://ei.nsisong.com" />
 		<meta property="twitter:title" content={title} />
 		<meta property="twitter:description" content={desc} />
 		<meta property="twitter:image" content={metaUrl} />
 
-		<meta property="og:site_name" content="Trulyao" />
-		<meta property="og:site" content="Trulyao" />
+		<meta property="og:site_name" content="nsisong" />
+		<meta property="og:site" content="nsisong" />
 		<meta property="og:title" content={title} />
 		<meta property="og:description" content={desc} />
 		<meta property="og:image" content={metaUrl} />
-		<meta property="og:url" content="https://www.trulyao.dev" />
+		<meta property="og:url" content="https://ei.nsisong.com" />
 
 		<link rel="icon" type="image/x-icon" href="favicon.ico" />
 		<link
