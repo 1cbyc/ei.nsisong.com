@@ -6,8 +6,6 @@ keywords: github, product, gitlab, git
 draft: false
 ---
 
-# Doing magic with Git
-
 i'm here again. this time, i want you to know that Git is a powerful version control system that helps developers manage their code efficiently. even if you're an OP  programmer or just starting out coding, understanding Git is crucial for collaborative and organized development. i would  explore the basics of Git and how it can change your workflow in this post.
 
 ## so, what is Git?
