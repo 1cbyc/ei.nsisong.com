@@ -22,7 +22,7 @@ At the core of Git is the repository, or "repo" for short. A repo is a directory
 
 ### Commit
 
-A commit is a snapshot of your project at a specific point in time. if you wete playing gta, this is like saving your game. Each commit can have a unique identifier to make it easy to track changes and revert to previous states.
+A commit is a snapshot of your project at a specific point in time. if you were playing gta, this is like saving your game. Each commit can have a unique identifier to make it easy to track changes and revert to previous states.
 
 ### Branch
 
