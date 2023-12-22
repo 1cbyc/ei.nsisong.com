@@ -46,7 +46,8 @@ It is okay to search online for tutorials to build a web app with that stack tho
 Whilst building your web app, make sure to implement functionalities like creating posts, logins, storing data…and other shii like that.
 
 See, just implement anything that helps you understand how these components work together; because to break any web app, you must first understand how they actually work.
-Stage 5: Study web vulnerabilities
+
+## Stage 5: Study web vulnerabilities
 
 You are really serious fam, for you to have built a web app…I greet you chief. Now that you are confident you understand how web applications work, it is time for you to study web vulnerability types.
 
