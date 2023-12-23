@@ -75,7 +75,7 @@ Make ah no lie you chief if you learn everything and you no do am, na waste.
 
 For starters, I always recommend trying government vulnerability programs to build confidence. In this case, the most structured I have seen is the **[US DC3DVP](https://www.dc3.mil/Missions/Vulnerability-Disclosure/Vulnerability-Disclosure-Program-VDP/)**.
 
-I advice you to ACTUALLY develop your technical skills by learning from others and by doing. DOn’t be tempted to even use Vulnerability scanners. If you do, you are a cheat, a lazy ass fool, and not ready to learn or grow and You will surely fail in this path.
+I advice you to ACTUALLY develop your technical skills by learning from others and by doing. DOn’t be tempted to even use Vulnerability scanners. If you do, you are a cheat, a lazy ass fool, and not ready to learn or grow and You will surely fail in this path. You would know why soon enough.
 
 
 > **EDIT**: Have patience! You don’t learn to cook in a day. This thing is a process, you start with someone else’s cooking tutorials and gradually, overtime, you become proficient to make your own recipes. Learn to love the learning process. Omooor... I’m tired of typing already o…but let me refresh your memory on the process:
