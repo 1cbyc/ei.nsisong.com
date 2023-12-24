@@ -87,4 +87,4 @@ I advice you to ACTUALLY develop your technical skills by learning from others a
     Learn how to do reconnaissance.
     Try VDPs or bug bounties.
 
-I can as well wish you the best. Just be consistent, I'm not too cool a person. If you need help, you can send me a message on [Twitter](https://x.com/1cbyc).
+I can as well wish you the best. Just be consistent, I'm not necessarily too cool a person. If you need help, you can send me a message on [Twitter](https://x.com/1cbyc).
