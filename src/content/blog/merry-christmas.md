@@ -1,7 +1,7 @@
 ---
 title: merry christmas
 date: 25 December 2023
-description: since it's christmas, i thought to say...
+description: since it's christmas, i thought to tell you a story...
 keywords: christmas, yuletide
 draft: false
 ---
