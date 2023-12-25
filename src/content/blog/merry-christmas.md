@@ -11,7 +11,7 @@ merry chritmas!🧑‍🎄🎄 <br>
 
 # let me narrate a magical christmas journey of a friend in my teenage years:
 
-on christmas eve, there was a curious young girl named wasola. wasola had always dreamed of a magical chrstmas, filled with wonders and surprises. Little did she know, this Christmas would be unlike any other.
+on christmas eve, there was a curious young girl named **wasola**. wasola had always dreamed of a magical chrstmas, filled with wonders and surprises. Little did she know, this Christmas would be unlike any other.
 
 As the clock struck midnight, a mysterious old man dressed in a crimson cloak appeared at wasola's doorstep. He introduced himself as Mr. dickson, the guardian of holiday magic. With a twinkle in his eye, he handed wasola a sparkling key and said, "This key will unlock the portal to the North Star, where the Christmas Council is waiting for you."
 
