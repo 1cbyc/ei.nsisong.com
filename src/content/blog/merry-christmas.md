@@ -9,7 +9,7 @@ draft: false
 merry chritmas!🧑‍🎄🎄 <br>
 [wanna say hello?](https://x.com/1cbyc)
 
-# let me narrate a magical christmas journey of a friend in my teenage years:
+## let me narrate a magical christmas journey of a friend in my teenage years:
 
 on christmas eve, there was a curious young girl named **wasola**. wasola had always dreamed of a magical chrstmas, filled with wonders and surprises. Little did she know, this Christmas would be unlike any other.
 
