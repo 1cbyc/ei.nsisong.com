@@ -7,4 +7,4 @@ draft: false
 ---
 
 merry chritmas!🧑‍🎄🎄 <br>
-[wanna say hello?](https://x.com/1cbyc).
+[wanna say hello?](https://x.com/1cbyc)
