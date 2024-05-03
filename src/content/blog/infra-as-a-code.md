@@ -14,3 +14,7 @@ i think it is now time i talk about infrastructure as code (some interviewers as
 anyways, infrastructure as code is just an idea in the cloud stuff and infosec. it is just about defining and managing IT infrastructure through code rather than relying on manual processes. so, iac is literally a significant shift in how we handle and operate infrastructure resources, to allow us enjoy automation and scalability.
 
 **anyways, some of the reasons i would suggest iac includes:**
+
+**consistency:** iac allows your infrastructure to remain consistent across various environments (like dev, staging, prod), so you don't even have to deal with manual errors and ensuring that the infrastructure is provisioned consistently each time.
+
+
