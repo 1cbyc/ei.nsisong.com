@@ -24,3 +24,7 @@ anyways, infrastructure as code is just an idea in the cloud stuff and infosec. 
 **automation:** iac enables you to automate the provisioning, configuration, and management of infrastructure resources, reducing the time and effort required for provisioning and allowing you to scale your infrastructure quickly in response to demand.
 
 while getting excited, there are tools we use for iac, though the **most common tools** are **terraform, aws cloud formation, azure resource manager templates and even google cloud deployment manager.**
+
+**
+
+there is no way i'd talk about anything in tech without telling you about their **best practices**. in fact, i enjoy writing best practices documentations.
