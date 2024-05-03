@@ -28,3 +28,5 @@ while getting excited, there are tools we use for iac, though the **most common 
 **
 
 there is no way i'd talk about anything in tech without telling you about their **best practices**. in fact, i enjoy writing best practices documentations.
+
+my top iac best practices involves **using version control** to store your iac files and even to track changes. it also involves actively **breaking down your infrastructure code into smaller and reusable modules** that can be shared and also combined to create more complex infrastructure configurations (some of us like simple things, explanation is hard for me).
