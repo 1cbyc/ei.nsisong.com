@@ -32,3 +32,6 @@ there is no way i'd talk about anything in tech without telling you about their 
 my top iac best practices involves **using version control** to store your iac files and even to track changes. it also involves actively **breaking down your infrastructure code into smaller and reusable modules** that can be shared and also combined to create more complex infrastructure configurations (some of us like simple things, explanation is hard for me).
 
 i am also a big fan of **validating and testing back-to-back** even if it is unit tests and static analysis; atleast to ensure the correctness and security of your infrastructure code before deployment. it is only right to **continuously monitor and update your iac code** (nothing is permanent now, even God had to make new versions of humans - the ones they call gen z).
+
+> [!NOTE]
+> you can also ask me specific questions about building your own infra and anything on infrastructure as code.
