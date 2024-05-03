@@ -32,4 +32,5 @@ my top iac best practices involves **using version control** to store your iac f
 i am also a big fan of **validating and testing back-to-back** even if it is unit tests and static analysis; atleast to ensure the correctness and security of your infrastructure code before deployment. it is only right to **continuously monitor and update your iac code** (nothing is permanent now, even God had to make new versions of humans - the ones they call gen z).
 
 > [!NOTE]
+
 > you can also ask me specific questions about building your own infra and anything on infrastructure as code.
