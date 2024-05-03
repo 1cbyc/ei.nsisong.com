@@ -19,4 +19,5 @@ anyways, infrastructure as code is just an idea in the cloud stuff and infosec. 
 
 **version control:** by treating your infrastructure as code, you can track changes to it infrastructure just like you would with application code. this makes it easier to identify issues and revert to a previous state if necessary.
 
+**collab:** iac allows team members to engage each other faster, even if it is to define and manage the infrastructure. who doesn't like better communication and visibility within the state of an infra?? 
 
