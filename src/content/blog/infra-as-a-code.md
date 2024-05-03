@@ -22,3 +22,5 @@ anyways, infrastructure as code is just an idea in the cloud stuff and infosec. 
 **collab:** iac allows team members to engage each other faster, even if it is to define and manage the infrastructure. who doesn't like better communication and visibility within the state of an infra?? 
 
 **automation:** iac enables you to automate the provisioning, configuration, and management of infrastructure resources, reducing the time and effort required for provisioning and allowing you to scale your infrastructure quickly in response to demand.
+
+while getting excited, there are tools we use for iac, though the **most common tools** are **terraform, aws cloud formation, azure resource manager templates and even google cloud deployment manager.**
