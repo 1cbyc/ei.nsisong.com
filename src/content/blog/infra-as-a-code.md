@@ -17,4 +17,6 @@ anyways, infrastructure as code is just an idea in the cloud stuff and infosec. 
 
 **consistency:** iac allows your infrastructure to remain consistent across various environments (like dev, staging, prod), so you don't even have to deal with manual errors and ensuring that the infrastructure is provisioned consistently each time.
 
+**version control:** by treating your infrastructure as code, you can track changes to it infrastructure just like you would with application code. this makes it easier to identify issues and revert to a previous state if necessary.
+
 
